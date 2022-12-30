@@ -1,2 +1,2 @@
 # Security-System
-Private repository for TechFest project
+Temporary repository for TechFest project
